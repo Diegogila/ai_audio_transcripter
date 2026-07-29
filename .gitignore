@@ -184,3 +184,4 @@ pip-selfcheck.json
 
 # Media
 *.mp3
+flagged/*
